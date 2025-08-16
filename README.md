@@ -94,21 +94,27 @@ Players manage Varexon's growth through the central Action Menu.
 Varexon faces off against a variety of beasts in different stages.
 
 ![Stage 1](https://github.com/Dean5w6/Beastborn-Chronicles/blob/master/Beastborn%20Chronicles/screenshots/UnfinishedStage1.png?raw=true)
+
 *Battle in Stage 1.*
 
 ![Stage 2](https://github.com/Dean5w6/Beastborn-Chronicles/blob/master/Beastborn%20Chronicles/screenshots/UnfinishedStage2.png?raw=true)
+
 *Battle in Stage 2.*
 
 ![Stage 3](https://github.com/Dean5w6/Beastborn-Chronicles/blob/master/Beastborn%20Chronicles/screenshots/UnfinishedStage3.png?raw=true)
+
 *Battle in Stage 3.*
 
 ![Stage 4](https://github.com/Dean5w6/Beastborn-Chronicles/blob/master/Beastborn%20Chronicles/screenshots/UnfinishedStage4.png?raw=true)
+
 *Battle in Stage 4.*
 
 ![Stage 5](https://github.com/Dean5w6/Beastborn-Chronicles/blob/master/Beastborn%20Chronicles/screenshots/UnfinishedStage5.png?raw=true)
+
 *Battle in Stage 5.*
 
 ![Stage 6](https://github.com/Dean5w6/Beastborn-Chronicles/blob/master/Beastborn%20Chronicles/screenshots/UnfinishedStage6.png?raw=true)
+
 *Battle in Stage 6.*
 
 ![Stage 7 Preview](https://github.com/Dean5w6/Beastborn-Chronicles/blob/master/Beastborn%20Chronicles/screenshots/Stage7Preview.png?raw=true)
