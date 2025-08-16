@@ -5,7 +5,7 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Me.Hide()
-        Stage5.Show()
+        Story.Show()
         Timer1.Stop()
     End Sub
 

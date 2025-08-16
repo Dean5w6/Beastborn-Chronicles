@@ -6,7 +6,7 @@
     Public Strength As Integer = ActionMenu.Strength
     Dim EnemyHP As Integer = 100000
     Dim Counter As Integer = 0
-    Dim EnemyDamage = 7500
+    Dim EnemyDamage = 15000
 
     Private Sub Stage01_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         ActionMenu.CD = 5
@@ -42,7 +42,7 @@
         If MaxHP <= 0 Then
             ActionMenu.PictureBox2.Image = My.Resources.Retry
             ActionMenu.PictureBox2.Visible = True
-            Me.Hide()
+            Me.Close()
             ActionMenu.Show()
         End If
     End Sub

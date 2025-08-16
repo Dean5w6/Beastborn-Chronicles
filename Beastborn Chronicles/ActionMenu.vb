@@ -52,7 +52,7 @@
                 PictureBox1.Image = My.Resources.V14
             Case 81 To 99
                 PictureBox1.Image = My.Resources.V15
-            Case 100
+            Case 100 To 120
                 PictureBox1.Image = My.Resources.V16
 
         End Select

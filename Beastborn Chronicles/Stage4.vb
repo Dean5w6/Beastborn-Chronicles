@@ -40,7 +40,7 @@
         If MaxHP <= 0 Then
             ActionMenu.PictureBox2.Image = My.Resources.Retry
             ActionMenu.PictureBox2.Visible = True
-            Me.Hide()
+            Me.Close()
             ActionMenu.Show()
         Else
             Counter += 1
